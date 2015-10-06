@@ -13,6 +13,7 @@ requires = [
     'pyramid_chameleon',
     'pyramid_debugtoolbar',
     'waitress',
+    'pyramid_jwtauth'
     ]
 
 setup(name='api',
